@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum dolor sit amet.",
+      "complete": false
+    },
+    {
+      "title": "Design a brand new website",
+      "details": "Lorem ipsum dolor sit amet.",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Study some more Vue.js",
+      "details": "Lorem ipsum dolor sit amet.",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Take a look into Pinia and storing data",
+      "details": "Lorem ipsum dolor sit amet.",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}
